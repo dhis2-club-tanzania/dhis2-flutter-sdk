@@ -132,7 +132,7 @@ class ProgramTrackedEntityAttribute extends IdentifiableEntity {
                   'dirty': false
                 }))
             .toList(),
-        dirty: jsonData['dirty'],
+        dirty: jsonData['dirty'] ?? false,
         translations: translations);
   }
 
