@@ -1,3 +1,8 @@
+## [1.1.9] 04/12/2024
+
+- Add nullable support in program module
+- Improve perfomance 
+
 ## [1.1.8] 14/10/2024 - Happy Nyerere Day
 
 - Add APiToken grant type to HTTP requests for personal access tokens
